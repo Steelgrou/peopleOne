@@ -1,0 +1,20 @@
+<svg width="89" height="80" viewBox="0 0 89 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="89" height="80" fill="#E5E5E5"/>
+<g id="Home" clip-path="url(#clip0_0_1)">
+<rect width="1600" height="6726" transform="translate(-160 -5737)" fill="white"/>
+<g id="CTA Section">
+<rect id="BG" width="1256" height="333" fill="#666DFF"/>
+<g id="Shapes">
+<path id="Vector" d="M10.8477 29.3785V0H88.5878V29.3785H10.8477Z" fill="white" fill-opacity="0.4"/>
+<path id="Vector_2" d="M0 50.6215V0H61.9209V50.6215H0Z" fill="#FFA155"/>
+<path id="Vector_3" d="M32.542 29.3785V0H61.9205V29.3785H32.542Z" fill="#FFD3AF"/>
+<path id="Vector_4" d="M0 80.0001V50.6216H29.3785V80.0001H0Z" fill="white" fill-opacity="0.4"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1600" height="6726" fill="white" transform="translate(-160 -5737)"/>
+</clipPath>
+</defs>
+</svg>

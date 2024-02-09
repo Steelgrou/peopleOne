@@ -1,0 +1,158 @@
+#services-section {
+    background-color: #FFE6D2;
+}
+
+.services-wrapper {
+    padding-top: 6rem;
+}
+
+.services-title {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin-bottom: 0.7rem;
+}
+
+.services-subtitle {
+    color: #232536;
+    max-width: 777px;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px;
+    margin-bottom: 2.5rem;
+}
+
+.services-btn {
+    margin-bottom: 5rem;
+    display: flex;
+    gap: 16px;
+    color: #FFF;
+    opacity: 0.87;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    padding: 20px 32px;
+    transition-duration: .7s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    background-color: #444CFC;
+}
+
+.services-btn:hover {
+    background-color: #1c26da;
+}
+
+.services-btn__img {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.services-cards {
+    display: flex;
+    gap: 32px;
+}
+
+.service-card {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    max-width: 405px;
+    background: #FFF;
+    box-shadow: 0px 60px 68px -30px rgba(255, 161, 85, 0.35);
+    padding: 60px 31px 44px 48px;
+    gap: 15px;
+    margin-bottom: 96px;
+}
+
+.services-card__title {
+    padding-top: 1rem;
+}
+
+.services-card__subtitle {
+    color: #5D5F6D;
+    max-width: 326px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.services-card__reference a {
+    color: #444CFC;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.services-card__img {
+    display: flex;
+}
+
+.services-card__headphones {
+    position: absolute;
+    top: 40px;
+    left: 62px;
+}
+
+.services-card__line {
+    position: absolute;
+    top: 44px;
+    left: 69px;
+}
+
+.services-card__bg {
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+
+
+/* -------Services pages-------*/
+
+.services-description {
+    max-width: 624px;
+    color: #232536;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 40px;
+}
+
+.services-right ul {
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
+}
+
+.services-right li {
+    list-style-type: none;
+}
+
+.services-right a {
+    color: #232536;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 36px;
+    transition: color 0.7s ease;
+}
+.services-right a:hover {
+    color: blue;
+    
+}
+
+.services-page {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Closed Services Page */

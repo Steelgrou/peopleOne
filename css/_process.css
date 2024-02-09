@@ -1,0 +1,109 @@
+.process-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 50px;
+}
+
+.process-title {
+    color: #000;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    opacity: 0.87;
+}
+
+.process-subtitle {
+    color: #232536;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 58px;
+    max-width: 733px;
+}
+
+.process-desk {
+    max-width: 642px;
+    color: #232536;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.process-cards {
+    display: flex;
+    gap: 48px;
+    flex-wrap: wrap;
+    padding: 50px 0px;
+}
+
+.process-card {
+    position: relative;
+    display: flex;
+    border: 1px solid rgba(35, 37, 54, 0.17);
+    padding: 28px;
+    gap: 16px;
+}
+
+.process-text h5 {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.process-text h6 {
+    color: #232536;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 289px;
+}
+
+.process-card__number {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+
+.process-shapes {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+
+
+.process-shapes__third{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.process-shapes__first {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.process-shapes__second{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/* Services pages */
+
+.process-services__page {
+    background-color: #F9F9FF;
+}
+
+
+
